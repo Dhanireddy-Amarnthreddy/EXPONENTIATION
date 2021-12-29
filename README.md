@@ -16,8 +16,8 @@ To write a program to find the exponentiation of a number.
 ## Program:
 ```
 #Program to to find the Exponentiation of a number.
-#Developed by: S.ABHISHEK
-#RegisterNumber: 21004552
+#Developed by: dhanireddy amarnthreddy
+#RegisterNumber: 21003697
 def exp(a,b):
     c=a**b
     return c
